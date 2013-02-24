@@ -31,3 +31,9 @@ To build the rom rom for one of the above given devices, run in terminal:
 	Building for Cooper
 	
 		. build-pac.sh cooper
+		
+
+You need help while compiling for your Device?
+You get it in our official IRC Channel:
+
+[IRC Channel: #pac-rom](http://webchat.freenode.net/?channels=pac-rom)
