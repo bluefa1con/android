@@ -268,6 +268,7 @@
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
+  <project path="kernel/lge/msm7x27-3.0.x" name="androidarmv6/android_kernel_lge_msm7x27-3.0.x" />
   <project path="kernel/samsung/msm7x27" name="androidarmv6/android_kernel_samsung_msm7x27" />
   <project path="kernel/lge/msm7x27" name="androidarmv6/android_kernel_lge_msm7x27" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
